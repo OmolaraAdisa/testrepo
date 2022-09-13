@@ -16,6 +16,6 @@ terraform {
     resource_group_name = "rg-function"
     storage_account_name = "larafunction"
     container_name = "cafunction"
-    key = "root.terraform.tfstate"
+    key = "ZpkNBOdahkW+a1rtxBdbOnFgupAi+P8mjKf+HOttEPqu22W+XJ0KbK+jYg5m8aNhR3k8Lr00IlRv+AStkidgUQ=="
   }
 }
